@@ -5,4 +5,4 @@ pygments: true
 safe: false
 title: 'luigipacheco'
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
