@@ -4,3 +4,5 @@ permalink: ':title'
 pygments: true
 safe: false
 title: 'luigipacheco'
+
+theme: jekyll-theme-cayman
